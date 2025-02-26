@@ -1,4 +1,5 @@
 Netflix Home Page Clone
+
 Welcome to the Netflix Home Page Clone repository! This project is a frontend clone of the Netflix homepage, built using HTML, CSS, and JavaScript. It replicates the design and layout of the Netflix homepage, including a responsive UI and interactive features.
 
 Features
