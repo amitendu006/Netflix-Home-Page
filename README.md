@@ -1,8 +1,9 @@
-Netflix Home Page Clone
+#Netflix Home Page Clone
 
 Welcome to the Netflix Home Page Clone repository! This project is a frontend clone of the Netflix homepage, built using HTML, CSS, and JavaScript. It replicates the design and layout of the Netflix homepage, including a responsive UI and interactive features.
 
-Features
+##Features
+
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 
 Netflix-like UI: Replicates the Netflix homepage design with a hero section, movie categories, and a footer.
@@ -11,7 +12,7 @@ Interactive Elements: Hover effects on movie cards and buttons.
 
 Footer Section: Includes links to common Netflix pages (e.g., FAQ, Help Center).
 
-Technologies Used
+##Technologies Used
 Frontend:
 
 HTML5
@@ -20,24 +21,13 @@ CSS3 (Flexbox, Grid)
 
 JavaScript (ES6+)
 
-Tools:
+##Tools:
 
 Git & GitHub for version control.
 
 Visual Studio Code as the code editor.
 
-Live Demo
-Check out the live demo of the project here:
-Netflix Home Page Clone Demo
-
-Screenshots
-Desktop View
-Desktop View of the Netflix Home Page Clone
-
-Mobile View
-Mobile View of the Netflix Home Page Clone
-
-Installation
+##Installation
 Follow these steps to run the project locally on your machine:
 
 Clone the Repository:
@@ -50,7 +40,7 @@ Open the Project:
 
 Open the index.html file in your browser to view the project.
 
-Folder Structure
+##Folder Structure
 Copy
 Netflix-Home-Page/
 ├── assets/                  # Static assets (e.g., images, icons)
@@ -83,17 +73,17 @@ Copy
 git push origin feature/your-feature-name
 Open a pull request and describe your changes.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 Netflix for the design inspiration.
 
 Unsplash for placeholder images.
 
-Contact
+##Contact
 If you have any questions or feedback, feel free to reach out:
 
-GitHub: amitendu006
+##GitHub: amitendu006
 
 Thank you for checking out this project! 🚀
