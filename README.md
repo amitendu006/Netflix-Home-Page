@@ -30,10 +30,12 @@ Check out the live demo of the project here:
 ---
 
 ## **Screenshots**
-![Desktop View](screenshots/desktop.png)  
+![Desktop View](![1](https://github.com/user-attachments/assets/1339ba37-f0b9-479e-9ef8-ef53355bb492)
+)  
 *Desktop View of the Netflix Home Page Clone*  
 
-![Mobile View](screenshots/mobile.png)  
+![Mobile View](![3](https://github.com/user-attachments/assets/f7e0ccad-16dc-4245-88b3-d2d2da923a03)
+)  
 *Mobile View of the Netflix Home Page Clone*  
 
 ---
